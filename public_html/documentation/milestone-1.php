@@ -23,16 +23,48 @@
 					hair salons for portfolio and website gallery updates. Movie producers and event promoters for photography and photmanipulation
 					for print marketing. Small businesses. Clubs and Event orginizers.
 				</li>
+				<li>
 					<strong>Goal:</strong>
 					I want to restart my photography and photo editing/manipulation portfolio. Transition from a person who just does this as a hobby
 				to a professional who freelances to suppliment income while going to school. I also want to work outside my comfort zone.
-
+				</li>
 			</ul>
 
 
 			</p>
 			<h2>Persona</h2>
+			<p>
+				<ul>
+				<li>
+					<strong>Name:</strong>
+					Godfrey Davis II
+				</li>
+				<li>
+					<strong>Age:</strong>
+					31
+				</li>
+				<li>
+					<strong>Job:</strong>
+					Photographer, Fullstack-developer, Graphic Artist
+				</li>
+				<li>
+					<strong>Technology:</strong>
+					Macbook pro, Internet, Tablet, Smart Phone, Nikon D7500, Natural Lighting.
+				</li>
+				<li>
+					<strong>Goal:</strong>
+					Attract a broader scope of clients. Have consistent work.
+				</li>
+				<li>
+					<strong>Frustrations:</strong>
+					It has been a struggle getting the clientel, the current portfolio is limited so it will harder to advertise
+					myself into markets i havent worked.
+				</li>
+
+				</ul>
+			</p>
 			<h2>Use Case</h2>
+
 
 		</body>
 </html>
