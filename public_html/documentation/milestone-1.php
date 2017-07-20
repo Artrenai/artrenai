@@ -58,7 +58,7 @@
 				</li>
 				<li>
 					<strong>Frustrations:</strong>
-					It has been a struggle getting the clientel, the current portfolio is limited so it will be harder to advertise
+					It has been a struggle getting the clientel, the current portfolio is limited. So, it will be harder to advertise
 					myself into markets i havent worked.
 				</li>
 
