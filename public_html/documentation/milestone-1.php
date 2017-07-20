@@ -5,4 +5,7 @@
 				Artrenai.com
 			</title>
 		</head>
+		<body>
+
+		</body>
 </html>
