@@ -19,8 +19,13 @@
 				</li>
 				<li>
 					<strong>Audience:</strong>
-
+					People who need portriaits,headshots and candid professional photos. Resturants for Menu items. Retail for store Items
+					hair salons for portfolio and website gallery updates. Movie producers and event promoters for photography and photmanipulation
+					for print marketing. Small businesses. Clubs and Event orginizers.
 				</li>
+					<strong>Goal:</strong>
+					I want to restart my photography and photo editing/manipulation portfolio. Transition from a person who just does this as a hobby
+				to a professional who freelances to suppliment income while going to school. I also want to work outside my comfort zone.
 
 			</ul>
 
