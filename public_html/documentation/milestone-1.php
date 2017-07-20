@@ -33,6 +33,7 @@
 
 			</p>
 			<h2>Persona</h2>
+
 			<p>
 				<ul>
 				<li>
@@ -57,7 +58,7 @@
 				</li>
 				<li>
 					<strong>Frustrations:</strong>
-					It has been a struggle getting the clientel, the current portfolio is limited so it will harder to advertise
+					It has been a struggle getting the clientel, the current portfolio is limited so it will be harder to advertise
 					myself into markets i havent worked.
 				</li>
 
@@ -65,7 +66,9 @@
 			</p>
 			<h2>Use Case</h2>
 			<p>
-
+			I want to reach a broader audience. My photography and art has been at a hault for a while now.Im looking to build a
+				website to reintroduce me into the work and showcase the additional web-developer skills i have aquired. I also want to
+				make sure that this website shows that I have a grasp on UX/UI design.
 			</p>
 
 		</body>
