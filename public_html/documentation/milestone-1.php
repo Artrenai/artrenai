@@ -37,20 +37,16 @@
 			<p>
 				<ul>
 				<li>
-					<strong>Name:</strong>
-					Godfrey Davis II
+				</li>
+				<li
 				</li>
 				<li>
-					<strong>Age:</strong>
-					31
-				</li>
-				<li>
-					<strong>Job:</strong>
-					Photographer, Fullstack-developer, Graphic Artist
+					<strong>Role/Audience:</strong>
+					Future Employers, Small businesses, Anyone looking for an experienced  photographer.
 				</li>
 				<li>
 					<strong>Technology:</strong>
-					Macbook pro, Internet, Tablet, Smart Phone, Nikon D7500, Natural Lighting.
+					Computer, Internet SmartPhone
 				</li>
 				<li>
 					<strong>Goal:</strong>
