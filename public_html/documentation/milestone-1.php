@@ -20,10 +20,20 @@
 			</ul>
 			<h2>Persona</h2>
 			<ul>
-				<li><strong>Role/Audience:</strong>Future Employers, Small businesses, Anyone looking for an experienced  photographer.</li>
-				<li><strong>Technology:</strong>Computer, Internet SmartPhone</li>
-				<li><strong>Goal:</strong>The website is convincing enough to hire Godfrey for work.</li>
-				<li><strong>Frustrations:</strong>the website is very limited. as it is now...Not enough evidence that he has any photography experince outside fashion photography</li>
+				<li><strong>Company:</strong> Barbers of "A real Barbershop" looking to hire photographer to do professional headshots for their online marketing, to attract
+				customers, specializes in urban haircuts. In downtown albequerque.</li>
+				<li><strong>Attitudes and Behaviors:</strong> They are an urban barbershop, the only one for miles in downtown albequerque, They only do urbanlike styles which
+					may leave some customers confused about what they do if you google them in the <a href="https://goo.gl/maps/5JzujYs4j9F2">Reviews</a> one person commented "Good if your a thug, if not go somewhere else.". Which
+				I believe is a reflection of their target demographic not being inline with the demographic of the area they are located in. It bothered them enough to create a <a href="https://goo.gl/maps/t9tAg1kd9kk">new listing address</a>
+				and populate it with good reviews. They are really good at what they do for a specific target audience. Even going as far as advertising that they repair work from done by shops that dont understand the demographic and leave customers
+				left with less than what they asked for</li>
+				<li><strong>Technology:</strong>Computer(pc),Adobe Acrobat, Internet, SmartPhone, DSLR Camera, Natural lighting </li>
+				<li><strong>Goal:</strong>The website is convincing enough to hire Me to do their photographer</li>
+				<li><strong>Frustrations:</strong>The barbers still have hesitation on whether investing in a photographer is economically sound and its debatable  that their Present social media
+				efforts is enough. They need more convincing. </li>
+				<li><strong>Goals:</strong> The website needs to be professional enough to show proficiency but welcoming enough to show flexability artisticly for the culture. </li>
+				<li><strong>User Story:</strong>I need to be convinced that investing in this photographer will be in the best interest of my company, I also need examples so that i know whats possible
+				and how it can best fit my company needs</li>
 			</ul>
 			<h2>Use Case</h2>
 			<p>
