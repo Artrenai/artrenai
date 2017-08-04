@@ -23,8 +23,8 @@
 				<li><strong>Company:</strong> Barbers of "A real Barbershop" looking to hire photographer to do professional headshots for their online marketing, to attract
 				customers, specializes in urban haircuts. In downtown albequerque.</li>
 				<li><strong>Attitudes and Behaviors:</strong> They are an urban barbershop, the only one for miles in downtown albequerque, They only do urbanlike styles which
-					may leave some customers confused about what they do if you google them in the <a href="https://goo.gl/maps/5JzujYs4j9F2">Reviews</a> one person commented "Good if your a thug, if not go somewhere else.". Which
-				I believe is a reflection of their target demographic not being inline with the demographic of the area they are located in. It bothered them enough to create a <a href="https://goo.gl/maps/t9tAg1kd9kk">new listing address</a>
+					may leave some customers confused about what they do if you google them in the <a href="https://goo.gl/maps/5JzujYs4j9F2" target="_blank">Reviews</a> one person commented "Good if your a thug, if not go somewhere else.". Which
+				I believe is a reflection of their target demographic not being inline with the demographic of the area they are located in. It bothered them enough to create a <a href="https://goo.gl/maps/t9tAg1kd9kk" target="_blank">new listing address</a>
 				and populate it with good reviews. They are really good at what they do for a specific target audience. Even going as far as advertising that they repair work from done by shops that dont understand the demographic and leave customers
 				left with less than what they asked for</li>
 				<li><strong>Technology:</strong>Computer(pc),Adobe Acrobat, Internet, SmartPhone, DSLR Camera, Natural lighting </li>

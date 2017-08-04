@@ -28,4 +28,6 @@
 				will have to be disabled. But I would like to get away with as much interactivity as possible . On desktop, I want to use a modal for contact
 			but for mobile, the modal function will be disabled  this will be featured at the bottom of the page. The footer will consist of copyright jargon and links to social network</p>
 
-			<img src="image/wireframes.png" />
+			<img src="image/wireframes.png" alt="Artrenai Wireframe"/>
+	</body>
+</html>
