@@ -23,9 +23,9 @@
 			</li>
 			<li>Contact</li>
 		</ul>
-			<p>Allot of the website will be graphical as possible. Its important that the page palpable.thinking mobile first
+			<p>Allot of the website will be as graphical as possible. Its important that the page is palpable.Thinking mobile first,
 		 	this has to translate well on a smaller screen. I want my images to scale and allot of the interactive functionally
-				will have to be disabled but i would like to get away with as much as possible . on desktop i want to use a modal for contact
-			but for mobile this will be featured at the bottom of the page. The footer will consist of copyright jargon and links to social network</p>
+				will have to be disabled. But I would like to get away with as much interactivity as possible . On desktop, I want to use a modal for contact
+			but for mobile, the modal function will be disabled  this will be featured at the bottom of the page. The footer will consist of copyright jargon and links to social network</p>
 
 			<img src="image/wireframes.png" />
