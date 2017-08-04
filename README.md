@@ -31,4 +31,4 @@ Your HTML is well laid out, with great indentation, making it super easy to read
 
 I noticed that you also took Rochelle's advice, and focused mainly on a gallery feel to your site, with links to your social media pages, and a contact form at the bottom. Your wireframes look great, and I think they'll translate very well into a functional website. I'm looking forward to seeing the end result, as I think you can make your PWP really showcase your talent as a photographer.
 
-As it stands, you're sitting at a [tier I](https://bootcamp-coders.cnm.edu/projects/personal/rubric/), due to your assignment being late, and for your errors in the HTML. If you correct these issues by 8/7/17 by 8:00am I will bump your grade up to tier II, as well as give you the go ahead to start working on milestone 2b. If you have any questions please let me know.
+After completing your updates, you're now at [tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're free to begin working on milestone 2b!
